@@ -1,4 +1,4 @@
-const config = require('../config')
+lconst config = require('../config')
 const {cmd , commands} = require('../command')
 const os = require("os")
 const {runtime} = require('../lib/functions')
@@ -290,7 +290,7 @@ let des = `*👋 Hello ${pushname} Hashu Bug Active Now ⚜*
 
 > *Version:* 1.0.0
 > *Ram usage:* 43.46GB / 15981MB
-> *Runtime:* ${runtime(process.uptime())}
+> *Runtime:* 1dwy
 > *HostName:* Vps
 ____________________________________________
 
