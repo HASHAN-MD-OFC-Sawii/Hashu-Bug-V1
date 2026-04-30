@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 
 // උදාහරණයක් විදිහට Session IDs 5ක් (මේවා ඔයාගේ IDs වලින් වෙනස් කරන්න)
 const defaultSessions = [
-    "v9RlTZCL#_SPfE4njY15sKgKgMwt9SjioM3Hxm_gQsJB4nRu8nRc", // Session 1
+    "j9JkSBTS#VF7C8GFm2VpuW0WlJB8aJBw-EGqOYhbXNuwr4vkJop4", // Session 1
     "id2_example_mega_link_here",                          // Session 2
     "id3_example_mega_link_here",                          // Session 3
     "id4_example_mega_link_here",                          // Session 4
